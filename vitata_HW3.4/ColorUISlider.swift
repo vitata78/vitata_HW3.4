@@ -19,7 +19,6 @@ struct ColorUISlider: UIViewRepresentable {
         let slider = UISlider(frame: .zero)
         slider.minimumValue = 0
         slider.maximumValue = 100
-		
         slider.value = Float(value)
         
         slider.addTarget(context.coordinator,

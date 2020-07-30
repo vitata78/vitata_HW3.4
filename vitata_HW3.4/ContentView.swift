@@ -18,7 +18,6 @@ struct ContentView: View {
 		
 		VStack {
 			Text("Подвиньте слайдер как можно ближе к: \(targetValue)")
-	
 			HStack {
 				Text("0")
 				ColorUISlider(value: $currentValue, alpha: computeScore())
