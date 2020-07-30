@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		691A5DD724D2254B0026F12D /* ColorUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691A5DD624D2254B0026F12D /* ColorUISlider.swift */; };
 		69374CA524D20E4200E42342 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69374CA424D20E4200E42342 /* AppDelegate.swift */; };
 		69374CA724D20E4200E42342 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69374CA624D20E4200E42342 /* SceneDelegate.swift */; };
 		69374CA924D20E4200E42342 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69374CA824D20E4200E42342 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		691A5DD624D2254B0026F12D /* ColorUISlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorUISlider.swift; sourceTree = "<group>"; };
 		69374CA124D20E4200E42342 /* vitata_HW3.4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vitata_HW3.4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69374CA424D20E4200E42342 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		69374CA624D20E4200E42342 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				69374CA424D20E4200E42342 /* AppDelegate.swift */,
 				69374CA624D20E4200E42342 /* SceneDelegate.swift */,
+				691A5DD624D2254B0026F12D /* ColorUISlider.swift */,
 				69374CA824D20E4200E42342 /* ContentView.swift */,
 				69374CAA24D20E4500E42342 /* Assets.xcassets */,
 				69374CAF24D20E4500E42342 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 			files = (
 				69374CA524D20E4200E42342 /* AppDelegate.swift in Sources */,
 				69374CA724D20E4200E42342 /* SceneDelegate.swift in Sources */,
+				691A5DD724D2254B0026F12D /* ColorUISlider.swift in Sources */,
 				69374CA924D20E4200E42342 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
